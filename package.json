@@ -17,5 +17,10 @@
   "keywords": [
     "clipanion"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:suyu34/clipanion-runner.git"
+  },
+  "author": "suyu34 <joooye1991@gmail.com>",
   "license": "MIT"
 }
